@@ -43,7 +43,7 @@ This project is designed as an assignment to explore the concepts of autocomplet
 **Installation**
 1. **Clone the Repository:**
    ```bash
-  git clone https://github.com/MatasT-uni/NLP-Language-Models-Auto-Complete
+   git clone https://github.com/MatasT-uni/NLP-Language-Models-Auto-Complete
    cd NLP-Language-Models-Auto-Complete
    ```
 2. **Install Required Packages:**
