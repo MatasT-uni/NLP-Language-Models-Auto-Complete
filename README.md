@@ -1,5 +1,3 @@
----
-
 ### README
 
 **Autocomplete Feature Implementation in NLP**
